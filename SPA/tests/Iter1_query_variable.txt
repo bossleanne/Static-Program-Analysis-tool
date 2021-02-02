@@ -1,0 +1,5 @@
+1 - variable
+variable v;
+Select v
+num,index,b,word,abc,cde,x,y
+5000

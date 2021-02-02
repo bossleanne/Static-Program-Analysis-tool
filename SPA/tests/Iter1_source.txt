@@ -1,0 +1,17 @@
+procedure echo { 
+    read num;
+    index = 1;
+    index = 3;
+    b = 2;
+    read index;
+    read word;
+    print word;
+    print b;
+    abc = 123;
+    print index;
+    print num;
+    cde = 24645438957983456738496561258189798151654894981561648749846546548948946916516687468946516541861561646165185;
+    x = y;
+    x = 5;
+    y = 1;
+}

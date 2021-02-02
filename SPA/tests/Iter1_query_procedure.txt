@@ -1,0 +1,5 @@
+1 - procedure
+procedure p;
+Select p
+echo
+5000

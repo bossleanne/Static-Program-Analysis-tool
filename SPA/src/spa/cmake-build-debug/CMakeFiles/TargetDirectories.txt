@@ -1,0 +1,3 @@
+/Users/leanne/year3Sem2/A01234567Y/Code-A01234567Y/src/spa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leanne/year3Sem2/A01234567Y/Code-A01234567Y/src/spa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leanne/year3Sem2/A01234567Y/Code-A01234567Y/src/spa/cmake-build-debug/CMakeFiles/spa.dir
