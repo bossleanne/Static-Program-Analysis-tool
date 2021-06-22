@@ -1,0 +1,19 @@
+procedure computeCentroid {
+    count = 0;
+    cenX = 1;
+    cenY = 2;
+    call readPoint;
+    while ((x * x + y * y) != 3) {
+        count = count + 4;
+        cenX = cenX + x;
+        cenY = cenY + y;
+        call readPoint;
+    }
+    if (count == 5) then {
+        flag = 6;
+    } else {
+        cenX = cenX / count;
+        cenY = cenY / count;
+    }
+    normSq = cenX * cenX + cenY * cenY;
+}

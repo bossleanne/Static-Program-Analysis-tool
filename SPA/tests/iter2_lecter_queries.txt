@@ -1,0 +1,25 @@
+1- select synonym, follows synonym synonym , not loop
+procedure p;variable v; stmt s; if ifs;while w; print pr; read r; constant cons; assign a; call c;
+Select s such that Follows(s,a)
+2,3,7,8,13,14
+5000
+2 - select synonym, follows synonym synonym , not loop
+procedure p;variable v; stmt s; if ifs;while w; print pr; read r; constant cons; assign a; call c;
+Select s such that Follows(a,s)
+2,3,4,7,8,9,13
+5000
+3 - select synonym, follows synonym synonym , not loop
+procedure p;variable v; stmt s; if ifs;while w; print pr; read r; constant cons; assign a; call c;
+Select a such that Follows(_,5)
+1,2,3
+5000
+4 - select synonym, follows synonym synonym , not loop
+procedure p;variable v; stmt s; if ifs;while w; print p1; read r; constant cons; assign a; call c;
+Select v such that Follows(_,_)
+1,2,3
+5000
+5 - select synonym, follows synonym synonym , not loop
+procedure p;variable v; stmt s; if ifs;while w; print pe1,pe2; read r; constant cons; assign a; call c;
+Select v such that Follows(_,pe1)
+1,2,3
+5000

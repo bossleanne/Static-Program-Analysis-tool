@@ -1,0 +1,41 @@
+procedure computeCentroid {
+    x = x + 1;
+    if (z == 10) then {
+        gg = 66;
+        ll = 88;
+    } else {
+        bb = 77;
+        aa = 78;
+    }
+    read test1;
+    while ((x * x + y * y) != 3){
+        digit = number % 2;
+        sum = sum + digit;
+        number = number / 3;
+        if (count == 5) then {
+            flag = 6;
+            print long;
+            while(test){
+                tt = 123;
+                xx = 321; 
+            }
+        } else {
+            flag = 7;
+            print iflong;
+        }
+    }
+    read test2;
+    if (z == 10) then {
+        gg = 666;
+        er = 8901212345678901234567890123456789012345678901234567890;
+        while(pp+xx!=qq){
+            read temp;
+            print yes;
+        }
+    } else {
+        bb = 77;
+        read xo;
+    }
+    y = 4;
+    x = 8;
+}

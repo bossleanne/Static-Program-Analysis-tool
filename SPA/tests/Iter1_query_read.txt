@@ -1,5 +1,0 @@
-1 - read
-read r;
-Select r
-num,index,word
-5000

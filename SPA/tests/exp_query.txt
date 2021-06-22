@@ -1,0 +1,5 @@
+1 - assign
+assign a;
+Select a
+1
+5000

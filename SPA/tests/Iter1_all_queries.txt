@@ -1,0 +1,35 @@
+1 - procedure
+procedure p;
+Select p
+echo
+5000
+2 - read
+read r;
+Select r
+1,5,6
+5000
+3 - print
+print p;
+Select p
+7,8,10,11
+5000
+4 - assign
+assign a;
+Select a
+2,3,4,9,12,13,14,15
+5000
+5 - constant
+constant c;
+Select c
+1,2,3,123,24645438957983456738496561258189798151654894981561648749846546548948946916516687468946516541861561646165185,5
+5000
+6 - variable
+variable v;
+Select v
+num,index,b,word,abc,cde,x,y
+5000
+7 - statement
+stmt s;
+Select s
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+5000

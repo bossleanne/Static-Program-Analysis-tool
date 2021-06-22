@@ -1,0 +1,72 @@
+procedure echo {
+    read aaa;
+    indexa = 1;
+    indexb = 2;
+    while (aab){
+        print aac;
+    }
+    while (aad){
+        read aae;
+    }
+    print b;
+    while (aaf){
+        print aag;
+        if(aah) then {
+            read aai;
+            print aaj;
+            if(aak) then {
+                print aal;
+                read aam;
+            }
+            else{
+                read aan;
+                indexc = 3;
+                read aao;
+                print aap;
+                print aaq;
+                indexd = 4;
+                read aar;
+                print aas;
+            }
+        }else{
+            while(aat){
+                read aau;
+                indexe = 5;
+                read aav;
+                print aaw;
+                print aax;
+                indexf = 6;
+                read aay;
+                print aaz;
+            }
+        }
+    }
+    read a;
+    while(aba){
+        read aca;
+        indexg = 7;
+        read ada;
+        print aea;
+        print afa;
+        indexh = 8;
+        read aga;
+        print aha;
+    }
+    indexh = 9;
+    if(c) then {
+        d = e;
+    }else{
+        f = g;
+    }
+    read aia;
+    read aja;
+    print aka;
+    print ala;
+    indexi = 123;
+    print ama;
+    read ana;
+    indexj = 24645438957983456738496561258189798151654894981561648749846546548948946916516687468946516541861561646165185;
+    indexk = aoa;
+    indexl = 10;
+    indexm = 11;
+}
