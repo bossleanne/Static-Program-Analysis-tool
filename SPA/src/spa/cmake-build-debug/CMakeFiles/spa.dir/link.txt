@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libspa.a  CMakeFiles/spa.dir/src/Database.o CMakeFiles/spa.dir/src/QueryProcessor.o CMakeFiles/spa.dir/src/SourceProcessor.o CMakeFiles/spa.dir/src/Tokenizer.o CMakeFiles/spa.dir/src/sqlite3.o CMakeFiles/spa.dir/src/verifyVariable.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libspa.a
