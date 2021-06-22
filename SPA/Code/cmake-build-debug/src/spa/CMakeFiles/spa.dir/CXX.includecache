@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leanne/A0194211N/Code_A0194211N/src/spa/src/Database.cpp
+Database.h
+/Users/leanne/A0194211N/Code_A0194211N/src/spa/src/Database.h
+
+/Users/leanne/A0194211N/Code_A0194211N/src/spa/src/Database.h
+string
+-
+vector
+-
+sqlite3.h
+/Users/leanne/A0194211N/Code_A0194211N/src/spa/src/sqlite3.h
+iostream
+-
+
+/Users/leanne/A0194211N/Code_A0194211N/src/spa/src/sqlite3.h
+stdarg.h
+-
+
