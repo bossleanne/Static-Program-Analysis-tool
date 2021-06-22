@@ -1,24 +1,0 @@
-<?xml-stylesheet type="text/xsl" href="analysis.xsl"?>
-<test_results>
-<info>
-<name>autotester</name><parsing_time_taken>46.784000</parsing_time_taken>
-</info>
-<queries>
-<query>
-<id ReturnTuple="1" CondNum="1" RelNum="0" >1</id><querystr><![CDATA[5000 ]]></querystr>
-<stuans></stuans>
-<correct>4 - Iter1_query_read</correct>
-<time_taken>0.558000</time_taken>
-<failed>
-<missing>4 - Iter1_query_read</missing>
-<additional></additional>
-<summary>
-<expected>1</expected>
-<matched>0</matched>
-<missing>1</missing>
-<additional>0</additional>
-</summary>
-</failed>
-</query>
-</queries>
-</test_results>

@@ -1,0 +1,40 @@
+1 - select synonym, follows everything everything
+stmt s;
+Select s such that Follows(_, _)
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+5000
+2 - select synonym, follows stmtNum everything , not loop
+stmt s;
+Select s such that Follows(s, _)
+1,2,3,4,5,6,7,8,9,10,11,12,13
+5000
+3 - select synonym, follows everything stmtNum , not loop
+stmt s;
+Select s such that Follows(_, s)
+2,3,4,5,6,7,8,9,10,11,12,13
+5000
+4 - select synonym, follows number stmtNum , not loop
+stmt s;
+Select s such that Follows(2, s)
+3
+5000
+5 - select synonym, follows stmtNum number , not loop
+stmt s;
+Select s such that Follows(s, 5)
+4
+5000
+5 - select synonym, follows stmtNum number , loop
+stmt s;
+Select s such that Follows(s, 8)
+7
+5000
+4 - select synonym, follows number stmtNum , loop
+stmt s;
+Select s such that Follows(5, s)
+10
+5000
+5 - select synonym, follows stmtNum number , loop
+stmt s;
+Select s such that Follows(8, s)
+9
+5000

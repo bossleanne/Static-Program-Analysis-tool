@@ -1,0 +1,5 @@
+1 - Follows Clause
+stmt s;read r;assign a;
+Select s such that Follows* (6,s)
+7,8,9
+5000
