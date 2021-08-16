@@ -17,4 +17,4 @@ cd $HOME/Main/Code/cmake-build-debug/src/autotester
 ```
 
 ##### View result:
-A file named Iter1_output.xml will show the total pass of the testcase.
+A file named output.xml will show the total pass of the testcase.
